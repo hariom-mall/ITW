@@ -20,6 +20,10 @@ body{
     justify-content: center;
 }
 
+.startmenu img{
+    border-radius: 8px;
+}
+
 .startmenu{
     position: absolute; 
     /* bottom: 50px; */
